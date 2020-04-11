@@ -1,7 +1,0 @@
-echo "# ZeraDengueWEb" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/alvess09/ZeraDengueWEb.git
-git push -u origin master
-                
